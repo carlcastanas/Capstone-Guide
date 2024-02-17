@@ -40,20 +40,16 @@ Welcome to the comprehensive guide for your capstone project in tech courses. Th
    - 12.16 [Register on GitHub and Follow](#register-on-github-and-follow)
 
 ## Introduction
-   - Embarking on your capstone project is a journey of applying your knowledge and skills gained throughout your academic pursuit.
-   - The capstone serves as a comprehensive showcase, allowing you to demonstrate your proficiency in your chosen field. This guide is designed to equip you with the essential tools and strategies to navigate the challenges and maximize the opportunities presented by your capstone project.
+   - Embarking on your capstone project is a journey of applying your knowledge and skills gained throughout your academic pursuit. The capstone serves as a comprehensive showcase, allowing you to demonstrate your proficiency in your chosen field. This guide is designed to equip you with the essential tools and strategies to navigate the challenges and maximize the opportunities presented by your capstone project.
 
 ## Feeling Overwhelmed? Start Here!
-   - The initial phase of any capstone project often brings a sense of uncertainty and overwhelming tasks. In this section, you'll find valuable insights on how to overcome these feelings and initiate your capstone project with confidence.
-   - We'll explore effective planning strategies, starting points, and methods to maintain a clear and organized path throughout your capstone journey.
+   - The initial phase of any capstone project often brings a sense of uncertainty and overwhelming tasks. In this section, you'll find valuable insights on how to overcome these feelings and initiate your capstone project with confidence. We'll explore effective planning strategies, starting points, and methods to maintain a clear and organized path throughout your capstone journey.
 
 ## Choosing a Programming Language
-   - Selecting the appropriate programming language is a crucial decision that significantly impacts the success of your capstone project. In this section, we delve into key considerations and tips to guide you in making an informed choice.
-   - Whether it's aligning with project requirements, considering your familiarity, or exploring emerging languages, understanding the rationale behind your decision is essential for a successful project.
+   - Selecting the appropriate programming language is a crucial decision that significantly impacts the success of your capstone project. In this section, we delve into key considerations and tips to guide you in making an informed choice. Whether it's aligning with project requirements, considering your familiarity, or exploring emerging languages, understanding the rationale behind your decision is essential for a successful project.
 
 ## Getting Started
-   - Initiating your capstone project requires a thoughtful and structured approach.
-   - This section provides a comprehensive guide on the foundational steps needed to kickstart your project. From brainstorming ideas to setting clear objectives, we'll discuss the critical components that contribute to creating a strong foundation for your capstone project.
+   - Initiating your capstone project requires a thoughtful and structured approach. This section provides a comprehensive guide on the foundational steps needed to kickstart your project. From brainstorming ideas to setting clear objectives, we'll discuss the critical components that contribute to creating a strong foundation for your capstone project.
 
 ## Planning Your Capstone Project
    - Effective project planning sets the stage for a successful capstone experience. Here, we explore in detail the steps involved in planning your capstone project. From defining milestones and deliverables to creating a roadmap, this section offers practical insights to ensure a well-organized and goal-oriented project.
@@ -119,7 +115,11 @@ Welcome to the comprehensive guide for your capstone project in tech courses. Th
    - Staying mindful of your project timeline is essential for success. This section emphasizes the importance of regularly revisiting and adjusting your timeline to ensure alignment with project goals. A well-managed timeline ensures that your capstone project progresses steadily towards completion.
 
 ### Ask for Help When You Need It
-   - Seeking assistance is a strength, not a weakness. In this section, we explore effective strategies for asking for help when facing challenges. Whether reaching out to instructors, peers, or online communities, seeking support ensures a positive and collaborative learning environment.
+   - Seeking assistance is a strength, not a weakness. Throughout your capstone project or as you navigate your IT career, there may be times when you encounter challenges or need guidance. Don't hesitate to reach out for help, mentorship, or advice.
+
+   - Whether you're facing technical difficulties, seeking insights from experienced professionals, or just need a guiding hand, I'm here to assist you. Feel free to connect with me on Messenger at [https://m.me/@carlcastanas](https://m.me/@carlcastanas) for any questions, mentorship requests, or general advice related to your capstone project or your journey in the IT field.
+
+   - Remember, asking for help is a proactive step towards growth and success. I'm here to provide support and share my knowledge to help you overcome challenges and achieve your goals.
 
 ### Take Breaks
    - Regular breaks are essential for maintaining focus and preventing burnout during your capstone project. This section underscores the importance of stepping away from your work to recharge and gain a refreshed perspective. Scheduled breaks contribute to sustained focus and clarity throughout your project.
