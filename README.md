@@ -117,7 +117,7 @@ Welcome to the comprehensive guide for your capstone project in tech courses. Th
 ### Ask for Help When You Need It
    - Seeking assistance is a strength, not a weakness. Throughout your capstone project or as you navigate your IT career, there may be times when you encounter challenges or need guidance. Don't hesitate to reach out for help, mentorship, or advice.
 
-   - Whether you're facing technical difficulties, seeking insights from experienced professionals, or just need a guiding hand, I'm here to assist you. Feel free to connect with me on Messenger at [https://m.me/@carlcastanas](https://m.me/@carlcastanas) for any questions, mentorship requests, or general advice related to your capstone project or your journey in the IT field.
+   - Whether you're facing technical difficulties, seeking insights from experienced professionals, or just need a guiding hand, I'm here to assist you. Feel free to connect with me on Messenger at [carlcastanas](https://m.me/@carlcastanas) for any questions, mentorship requests, or general advice related to your capstone project or your journey in the IT field.
 
    - Remember, asking for help is a proactive step towards growth and success. I'm here to provide support and share my knowledge to help you overcome challenges and achieve your goals.
 
