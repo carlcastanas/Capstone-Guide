@@ -37,27 +37,28 @@ Welcome to the comprehensive guide for your capstone project in tech courses. Th
       - 12.15.1 [Effective Study Techniques](#effective-study-techniques)
       - 12.15.2 [Online Learning Resources](#online-learning-resources)
       - 12.15.3 [Collaborative Study Groups](#collaborative-study-groups)
+   - 12.16 [Register on GitHub and Follow](#register-on-github-and-follow)
 
 ## Introduction
-The capstone project is the culmination of your academic journey, allowing you to showcase your skills and knowledge. Understanding its [purpose and expectations](#introduction) is crucial for a successful experience.
+Embarking on your capstone project is a journey of applying your knowledge and skills gained throughout your academic pursuit. This guide aims to provide insights and strategies to make this journey successful.
 
 ## Feeling Overwhelmed? Start Here!
-Embarking on a capstone project can be daunting. Learn how to [plan, start, and finish your project](#feeling-overwhelmed-start-here) effectively, ensuring a clear plan of action for progress.
+Launching into a capstone project can be overwhelming. This section will guide you on [how to plan, start, and finish](#feeling-overwhelmed-start-here) your project effectively, ensuring clarity and progress.
 
 ## Choosing a Programming Language
-Selecting the right programming language is a critical decision. Explore [tips and considerations](#choosing-a-programming-language) to make an informed choice based on your project's requirements.
+Selecting the right programming language is pivotal. Explore [tips and considerations](#choosing-a-programming-language) to make an informed decision based on your project's scope and requirements.
 
 ## Getting Started
-Initiating your capstone project requires careful planning. Access guidelines for [brainstorming ideas, defining objectives](#getting-started), and establishing a solid foundation for your project.
+Initiating your capstone project requires careful planning. Learn about the [key steps for getting started](#getting-started), including idea generation, setting objectives, and creating a solid foundation for your project.
 
 ## Planning Your Capstone Project
-Effective project planning is essential for success. Follow detailed steps to [set milestones, define deliverables](#planning-your-capstone-project), and create a roadmap for your capstone project.
+Effective project planning is the cornerstone of success. Follow detailed steps to [set milestones, define deliverables](#planning-your-capstone-project), and create a roadmap for a well-organized project.
 
 ## Feasibility Analysis
 Before diving into your project, evaluate its [feasibility](#feasibility-analysis). Consider technical, financial, and time constraints to ensure realistic expectations and successful outcomes.
 
 ## Understanding Limitations
-Identify and acknowledge potential [limitations and challenges](#understanding-limitations) in your capstone project. This understanding is crucial for adapting your approach and managing expectations.
+Identify and acknowledge potential [limitations and challenges](#understanding-limitations) in your capstone project. Addressing these challenges proactively is crucial for project adaptability and success.
 
 ## Capstone Papers Tips
 Writing an impactful capstone paper requires attention to detail. Acquire essential tips for [structuring your paper, formatting guidelines](#capstone-papers-tips), and ensuring effective communication of your findings.
@@ -133,3 +134,6 @@ Leverage [online resources](#online-learning-resources) to enhance your understa
 
 #### Collaborative Study Groups
 Join or form [study groups](#collaborative-study-groups) to share insights, troubleshoot challenges, and foster a collaborative learning environment.
+
+## Register on GitHub and Follow
+Before delving into your capstone project, it's essential to have a platform for collaboration and version control. Register on GitHub [here](https://github.com/join) and follow me on GitHub [here](https://github.com/carlcastanas) for valuable insights and project updates.
