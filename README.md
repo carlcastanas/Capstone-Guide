@@ -2,6 +2,11 @@
 
 Welcome to the comprehensive guide for your capstone project in tech courses. This guide aims to provide you with detailed instructions, valuable tips, and practical insights to ensure a successful and rewarding capstone experience.
 
+[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/Capstone-Guide/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/Capstone-Guide/network/members)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.Capstone-Guide)
+
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Feeling Overwhelmed? Start Here!](#feeling-overwhelmed-start-here)
